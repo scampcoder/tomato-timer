@@ -27,3 +27,9 @@ ul.button-group{
   /*remove wspace on left side to center buttons*/
   padding: 0;
 }
+
+/*make buttons the same size*/
+button.button-group{
+  width: 85px;
+  padding: 0;
+}
