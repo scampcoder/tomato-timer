@@ -13,10 +13,12 @@ body{
   background-size: cover;
 }
 
+
+
 ul.button-group{
-  */get rid of bullets*/
+  /*get rid of bullets*/
   list-style-type: none;
   display: flex;
-  */Center buttons on pg*/
+  /*Center buttons on pg*/
   justify-content: center;
 }
