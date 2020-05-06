@@ -36,3 +36,19 @@ button.button-group{
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
 }
+
+#timer-container{
+  background-color: white;
+  position: relative;
+  text-align: center;
+  display: block;
+  top: 30vh;
+  width: 255px;
+  margin: auto;
+
+}
+
+#timer{
+  /*move timer down in box*/
+  padding-top: 40px;
+}
