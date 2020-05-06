@@ -13,7 +13,10 @@ body{
   background-size: cover;
 }
 
-
+#buttons{
+  position: relative;
+  top: 70px;
+}
 
 ul.button-group{
   /*get rid of bullets*/
@@ -21,4 +24,6 @@ ul.button-group{
   display: flex;
   /*Center buttons on pg*/
   justify-content: center;
+  /*remove wspace on left side to center buttons*/
+  padding: 0;
 }
