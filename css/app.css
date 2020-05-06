@@ -1,3 +1,12 @@
-h1{
+header {
   text-align: center;
+  background-color: #FC858D;
+  margin: -10px;
+  padding: 10px;
+}
+
+body{
+  background-image: url(https://images.theconversation.com/files/312304/original/file-20200128-81416-1odt8n2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
