@@ -38,11 +38,10 @@ button.button-group{
 }
 
 #timer-container{
-  background-color: white;
   position: relative;
   text-align: center;
   display: block;
-  top: 30vh;
+  top: 10vh;
   width: 255px;
   margin: auto;
 
@@ -51,4 +50,6 @@ button.button-group{
 #timer{
   /*move timer down in box*/
   padding-top: 40px;
+  color: white;
+  font-size: 100px;
 }
